@@ -13,7 +13,7 @@ var options =
 	identity: 
 	{
 		username: "lucasvcosta",
-		password: "oauth:20ruhe1q3zra057hze7anwoqjng6yl",  
+		password: "oauth:59coep27fdllkftghps2d1jceexnmh",  
 	},
 	channels: ['#gaules', '#marcobc', '#johnpittertv', '#jeffaocs', '#mibrtv', '#marcaorx', '#Vovo', '#furiatv', '#stereonline', '#skipnho', '#saullo', '#mch_agg',] //ADICIONA OS CANAIS AQ COM '#NOME'
 };
